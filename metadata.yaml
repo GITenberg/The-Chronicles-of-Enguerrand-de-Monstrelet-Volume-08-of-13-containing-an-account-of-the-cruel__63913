@@ -1,0 +1,43 @@
+_repo: The-Chronicles-of-Enguerrand-de-Monstrelet-Volume-08-of-13-containing-an-account-of-the-cruel__63913
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Johnes, Thomas
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '46109'
+    url: http://www.gutenberg.org/2009/agents/46109
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Johnes
+creator:
+  author:
+    agent_name: Monstrelet, Enguerrand de
+    aliases:
+    - Monstrelet, Enguerran de
+    - De Monstrelet, Enguerrand
+    deathdate: 1453
+    gutenberg_agent_id: '46108'
+    url: http://www.gutenberg.org/2009/agents/46108
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+    - https://en.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+description: ''
+gutenberg_issued: '2020-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- House of Valois, 1328-1589'
+- !lcsh 'Europe -- History -- 476-1492 -- Sources'
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- !lcc 'D'
+- GITenberg
+title: "The Chronicles of Enguerrand de Monstrelet, Volume 08 [of 13]\r\ncontaining\
+  \ an account of the cruel civil wars between the houses of Orleans and Burgundy,\
+  \ of the possession of Paris and Normandy by the English, their expulsion thence,\
+  \ and of other memorable events that happened in the kingdom of France, as well\
+  \ as in other countries"
+url: http://www.gutenberg.org/ebooks/63913
